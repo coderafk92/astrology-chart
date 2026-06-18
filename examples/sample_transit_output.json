@@ -1,0 +1,252 @@
+{
+  "natal_name": "Aakash",
+  "transit_datetime_utc": "2026-06-17T06:30:00+00:00",
+  "transiting_planets": {
+    "sun": {
+      "name": "Sun",
+      "sign": "Gem",
+      "degree_in_sign": 26.1,
+      "absolute_degree": 86.1,
+      "house": "Tenth_House",
+      "retrograde": false
+    },
+    "moon": {
+      "name": "Moon",
+      "sign": "Can",
+      "degree_in_sign": 26.56,
+      "absolute_degree": 116.56,
+      "house": "Eleventh_House",
+      "retrograde": false
+    },
+    "mercury": {
+      "name": "Mercury",
+      "sign": "Can",
+      "degree_in_sign": 20.55,
+      "absolute_degree": 110.55,
+      "house": "Eleventh_House",
+      "retrograde": false
+    },
+    "venus": {
+      "name": "Venus",
+      "sign": "Leo",
+      "degree_in_sign": 4.44,
+      "absolute_degree": 124.44,
+      "house": "Eleventh_House",
+      "retrograde": false
+    },
+    "mars": {
+      "name": "Mars",
+      "sign": "Tau",
+      "degree_in_sign": 21.7,
+      "absolute_degree": 51.7,
+      "house": "Ninth_House",
+      "retrograde": false
+    },
+    "jupiter": {
+      "name": "Jupiter",
+      "sign": "Can",
+      "degree_in_sign": 27.28,
+      "absolute_degree": 117.28,
+      "house": "Eleventh_House",
+      "retrograde": false
+    },
+    "saturn": {
+      "name": "Saturn",
+      "sign": "Ari",
+      "degree_in_sign": 13.45,
+      "absolute_degree": 13.45,
+      "house": "Seventh_House",
+      "retrograde": false
+    },
+    "uranus": {
+      "name": "Uranus",
+      "sign": "Gem",
+      "degree_in_sign": 2.99,
+      "absolute_degree": 62.99,
+      "house": "Ninth_House",
+      "retrograde": false
+    },
+    "neptune": {
+      "name": "Neptune",
+      "sign": "Ari",
+      "degree_in_sign": 4.31,
+      "absolute_degree": 4.31,
+      "house": "Seventh_House",
+      "retrograde": false
+    },
+    "pluto": {
+      "name": "Pluto",
+      "sign": "Aqu",
+      "degree_in_sign": 5.13,
+      "absolute_degree": 305.13,
+      "house": "Fifth_House",
+      "retrograde": true
+    },
+    "chiron": {
+      "name": "Chiron",
+      "sign": "Ari",
+      "degree_in_sign": 29.9,
+      "absolute_degree": 29.9,
+      "house": "Eighth_House",
+      "retrograde": false
+    },
+    "mean_lilith": {
+      "name": "Mean_Lilith",
+      "sign": "Sag",
+      "degree_in_sign": 20.0,
+      "absolute_degree": 260.0,
+      "house": "Fourth_House",
+      "retrograde": false
+    },
+    "true_north_lunar_node": {
+      "name": "True_North_Lunar_Node",
+      "sign": "Pis",
+      "degree_in_sign": 2.0,
+      "absolute_degree": 332.0,
+      "house": "Sixth_House",
+      "retrograde": true
+    },
+    "true_south_lunar_node": {
+      "name": "True_South_Lunar_Node",
+      "sign": "Vir",
+      "degree_in_sign": 2.0,
+      "absolute_degree": 152.0,
+      "house": "Twelfth_House",
+      "retrograde": true
+    }
+  },
+  "transits_to_natal_chart": [
+    {
+      "transiting_planet": "Sun",
+      "aspect": "sextile",
+      "natal_point": "Sun",
+      "orb": 0.87
+    },
+    {
+      "transiting_planet": "Sun",
+      "aspect": "conjunction",
+      "natal_point": "Saturn",
+      "orb": 0.6
+    },
+    {
+      "transiting_planet": "Sun",
+      "aspect": "trine",
+      "natal_point": "Uranus",
+      "orb": 0.75
+    },
+    {
+      "transiting_planet": "Moon",
+      "aspect": "opposition",
+      "natal_point": "Moon",
+      "orb": 1.59
+    },
+    {
+      "transiting_planet": "Moon",
+      "aspect": "quintile",
+      "natal_point": "Ascendant",
+      "orb": 0.56
+    },
+    {
+      "transiting_planet": "Mercury",
+      "aspect": "sextile",
+      "natal_point": "Mercury",
+      "orb": 0.86
+    },
+    {
+      "transiting_planet": "Venus",
+      "aspect": "conjunction",
+      "natal_point": "Jupiter",
+      "orb": 0.42
+    },
+    {
+      "transiting_planet": "Mars",
+      "aspect": "trine",
+      "natal_point": "Mercury",
+      "orb": 0.28
+    },
+    {
+      "transiting_planet": "Mars",
+      "aspect": "quintile",
+      "natal_point": "Jupiter",
+      "orb": 0.32
+    },
+    {
+      "transiting_planet": "Saturn",
+      "aspect": "opposition",
+      "natal_point": "Venus",
+      "orb": 0.52
+    },
+    {
+      "transiting_planet": "Saturn",
+      "aspect": "trine",
+      "natal_point": "Pluto",
+      "orb": 1.46
+    },
+    {
+      "transiting_planet": "Saturn",
+      "aspect": "sextile",
+      "natal_point": "True_North_Lunar_Node",
+      "orb": 1.88
+    },
+    {
+      "transiting_planet": "Saturn",
+      "aspect": "trine",
+      "natal_point": "True_South_Lunar_Node",
+      "orb": 1.88
+    },
+    {
+      "transiting_planet": "Uranus",
+      "aspect": "sextile",
+      "natal_point": "Jupiter",
+      "orb": 1.03
+    },
+    {
+      "transiting_planet": "Neptune",
+      "aspect": "trine",
+      "natal_point": "Jupiter",
+      "orb": 0.29
+    },
+    {
+      "transiting_planet": "Neptune",
+      "aspect": "quintile",
+      "natal_point": "True_North_Lunar_Node",
+      "orb": 0.98
+    },
+    {
+      "transiting_planet": "Neptune",
+      "aspect": "square",
+      "natal_point": "Chiron",
+      "orb": 0.85
+    },
+    {
+      "transiting_planet": "Pluto",
+      "aspect": "opposition",
+      "natal_point": "Jupiter",
+      "orb": 1.11
+    },
+    {
+      "transiting_planet": "True_North_Lunar_Node",
+      "aspect": "sextile",
+      "natal_point": "Chiron",
+      "orb": 1.46
+    },
+    {
+      "transiting_planet": "Mean_Lilith",
+      "aspect": "square",
+      "natal_point": "Mercury",
+      "orb": 1.41
+    },
+    {
+      "transiting_planet": "Mean_Lilith",
+      "aspect": "quintile",
+      "natal_point": "Ascendant",
+      "orb": 0.01
+    },
+    {
+      "transiting_planet": "True_South_Lunar_Node",
+      "aspect": "trine",
+      "natal_point": "Chiron",
+      "orb": 1.46
+    }
+  ]
+}
