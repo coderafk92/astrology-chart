@@ -1,0 +1,707 @@
+{
+  "person_1": "Aakash",
+  "person_2": "Partner",
+  "relationship_score": {
+    "score": 12,
+    "description": "Important",
+    "is_destiny_sign": false
+  },
+  "aspects": [
+    {
+      "person_1_point": "Sun",
+      "aspect": "opposition",
+      "person_2_point": "Mercury",
+      "orb": 8.6
+    },
+    {
+      "person_1_point": "Sun",
+      "aspect": "square",
+      "person_2_point": "Saturn",
+      "orb": 1.49
+    },
+    {
+      "person_1_point": "Sun",
+      "aspect": "opposition",
+      "person_2_point": "Uranus",
+      "orb": 4.79
+    },
+    {
+      "person_1_point": "Sun",
+      "aspect": "trine",
+      "person_2_point": "Chiron",
+      "orb": 1.09
+    },
+    {
+      "person_1_point": "Sun",
+      "aspect": "conjunction",
+      "person_2_point": "Ascendant",
+      "orb": 8.25
+    },
+    {
+      "person_1_point": "Sun",
+      "aspect": "opposition",
+      "person_2_point": "Descendant",
+      "orb": 8.25
+    },
+    {
+      "person_1_point": "Moon",
+      "aspect": "opposition",
+      "person_2_point": "Moon",
+      "orb": 8.33
+    },
+    {
+      "person_1_point": "Moon",
+      "aspect": "trine",
+      "person_2_point": "Saturn",
+      "orb": 0.51
+    },
+    {
+      "person_1_point": "Mercury",
+      "aspect": "opposition",
+      "person_2_point": "Sun",
+      "orb": 6.41
+    },
+    {
+      "person_1_point": "Mercury",
+      "aspect": "sextile",
+      "person_2_point": "Moon",
+      "orb": 4.77
+    },
+    {
+      "person_1_point": "Mercury",
+      "aspect": "trine",
+      "person_2_point": "Saturn",
+      "orb": 4.07
+    },
+    {
+      "person_1_point": "Mercury",
+      "aspect": "trine",
+      "person_2_point": "True_South_Lunar_Node",
+      "orb": 7.83
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "square",
+      "person_2_point": "Moon",
+      "orb": 3.71
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "trine",
+      "person_2_point": "Mercury",
+      "orb": 5.43
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "opposition",
+      "person_2_point": "Venus",
+      "orb": 4.55
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "sextile",
+      "person_2_point": "Mars",
+      "orb": 3.55
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "trine",
+      "person_2_point": "Neptune",
+      "orb": 5.3
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "sextile",
+      "person_2_point": "Pluto",
+      "orb": 2.3
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "square",
+      "person_2_point": "True_North_Lunar_Node",
+      "orb": 0.65
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "trine",
+      "person_2_point": "Medium_Coeli",
+      "orb": 7.33
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "trine",
+      "person_2_point": "Mean_Lilith",
+      "orb": 1.89
+    },
+    {
+      "person_1_point": "Venus",
+      "aspect": "square",
+      "person_2_point": "True_South_Lunar_Node",
+      "orb": 0.65
+    },
+    {
+      "person_1_point": "Mars",
+      "aspect": "opposition",
+      "person_2_point": "Mercury",
+      "orb": 5.62
+    },
+    {
+      "person_1_point": "Mars",
+      "aspect": "trine",
+      "person_2_point": "Venus",
+      "orb": 6.5
+    },
+    {
+      "person_1_point": "Mars",
+      "aspect": "square",
+      "person_2_point": "Saturn",
+      "orb": 1.5
+    },
+    {
+      "person_1_point": "Mars",
+      "aspect": "opposition",
+      "person_2_point": "Uranus",
+      "orb": 1.8
+    },
+    {
+      "person_1_point": "Mars",
+      "aspect": "trine",
+      "person_2_point": "Chiron",
+      "orb": 4.08
+    },
+    {
+      "person_1_point": "Jupiter",
+      "aspect": "trine",
+      "person_2_point": "Mars",
+      "orb": 5.36
+    },
+    {
+      "person_1_point": "Jupiter",
+      "aspect": "sextile",
+      "person_2_point": "Jupiter",
+      "orb": 0.36
+    },
+    {
+      "person_1_point": "Jupiter",
+      "aspect": "opposition",
+      "person_2_point": "Neptune",
+      "orb": 3.62
+    },
+    {
+      "person_1_point": "Jupiter",
+      "aspect": "sextile",
+      "person_2_point": "Medium_Coeli",
+      "orb": 1.59
+    },
+    {
+      "person_1_point": "Jupiter",
+      "aspect": "trine",
+      "person_2_point": "Imum_Coeli",
+      "orb": 1.59
+    },
+    {
+      "person_1_point": "Jupiter",
+      "aspect": "opposition",
+      "person_2_point": "Mean_Lilith",
+      "orb": 7.03
+    },
+    {
+      "person_1_point": "Saturn",
+      "aspect": "trine",
+      "person_2_point": "Uranus",
+      "orb": 4.53
+    },
+    {
+      "person_1_point": "Saturn",
+      "aspect": "opposition",
+      "person_2_point": "Chiron",
+      "orb": 1.35
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "conjunction",
+      "person_2_point": "Mercury",
+      "orb": 8.48
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "square",
+      "person_2_point": "Saturn",
+      "orb": 1.37
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "conjunction",
+      "person_2_point": "Uranus",
+      "orb": 4.67
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "quintile",
+      "person_2_point": "Pluto",
+      "orb": 0.38
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "sextile",
+      "person_2_point": "Chiron",
+      "orb": 1.21
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "opposition",
+      "person_2_point": "Ascendant",
+      "orb": 8.37
+    },
+    {
+      "person_1_point": "Uranus",
+      "aspect": "conjunction",
+      "person_2_point": "Descendant",
+      "orb": 8.37
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "conjunction",
+      "person_2_point": "Mercury",
+      "orb": 9.27
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "sextile",
+      "person_2_point": "Mars",
+      "orb": 0.28
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "trine",
+      "person_2_point": "Jupiter",
+      "orb": 5.44
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "conjunction",
+      "person_2_point": "Neptune",
+      "orb": 1.46
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "trine",
+      "person_2_point": "Medium_Coeli",
+      "orb": 3.49
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "sextile",
+      "person_2_point": "Imum_Coeli",
+      "orb": 3.49
+    },
+    {
+      "person_1_point": "Neptune",
+      "aspect": "conjunction",
+      "person_2_point": "Mean_Lilith",
+      "orb": 1.94
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "square",
+      "person_2_point": "Sun",
+      "orb": 0.09
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "sextile",
+      "person_2_point": "Mercury",
+      "orb": 3.45
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "trine",
+      "person_2_point": "Venus",
+      "orb": 2.57
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "conjunction",
+      "person_2_point": "Mars",
+      "orb": 5.53
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "conjunction",
+      "person_2_point": "Pluto",
+      "orb": 0.32
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "opposition",
+      "person_2_point": "Medium_Coeli",
+      "orb": 9.31
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "conjunction",
+      "person_2_point": "Imum_Coeli",
+      "orb": 9.31
+    },
+    {
+      "person_1_point": "Pluto",
+      "aspect": "sextile",
+      "person_2_point": "Mean_Lilith",
+      "orb": 3.87
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "square",
+      "person_2_point": "Sun",
+      "orb": 0.33
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "trine",
+      "person_2_point": "Mercury",
+      "orb": 3.04
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "sextile",
+      "person_2_point": "Venus",
+      "orb": 2.15
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "opposition",
+      "person_2_point": "Mars",
+      "orb": 5.95
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "trine",
+      "person_2_point": "Uranus",
+      "orb": 6.85
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "trine",
+      "person_2_point": "Neptune",
+      "orb": 7.69
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "opposition",
+      "person_2_point": "Pluto",
+      "orb": 0.09
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "conjunction",
+      "person_2_point": "Medium_Coeli",
+      "orb": 9.72
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "opposition",
+      "person_2_point": "Imum_Coeli",
+      "orb": 9.72
+    },
+    {
+      "person_1_point": "True_North_Lunar_Node",
+      "aspect": "trine",
+      "person_2_point": "Mean_Lilith",
+      "orb": 4.28
+    },
+    {
+      "person_1_point": "Chiron",
+      "aspect": "quintile",
+      "person_2_point": "Sun",
+      "orb": 0.46
+    },
+    {
+      "person_1_point": "Chiron",
+      "aspect": "conjunction",
+      "person_2_point": "Chiron",
+      "orb": 5.39
+    },
+    {
+      "person_1_point": "Chiron",
+      "aspect": "trine",
+      "person_2_point": "Ascendant",
+      "orb": 1.77
+    },
+    {
+      "person_1_point": "Chiron",
+      "aspect": "sextile",
+      "person_2_point": "Descendant",
+      "orb": 1.77
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "opposition",
+      "person_2_point": "Venus",
+      "orb": 9.47
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "sextile",
+      "person_2_point": "Mars",
+      "orb": 1.37
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "trine",
+      "person_2_point": "Jupiter",
+      "orb": 4.35
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "trine",
+      "person_2_point": "Neptune",
+      "orb": 0.37
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "trine",
+      "person_2_point": "Medium_Coeli",
+      "orb": 2.4
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "sextile",
+      "person_2_point": "Imum_Coeli",
+      "orb": 2.4
+    },
+    {
+      "person_1_point": "Ascendant",
+      "aspect": "trine",
+      "person_2_point": "Mean_Lilith",
+      "orb": 3.04
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "trine",
+      "person_2_point": "Sun",
+      "orb": 7.27
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "conjunction",
+      "person_2_point": "Moon",
+      "orb": 8.91
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "conjunction",
+      "person_2_point": "True_North_Lunar_Node",
+      "orb": 5.85
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "opposition",
+      "person_2_point": "Chiron",
+      "orb": 9.67
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "sextile",
+      "person_2_point": "Ascendant",
+      "orb": 2.51
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "trine",
+      "person_2_point": "Descendant",
+      "orb": 2.51
+    },
+    {
+      "person_1_point": "Medium_Coeli",
+      "aspect": "opposition",
+      "person_2_point": "True_South_Lunar_Node",
+      "orb": 5.85
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "conjunction",
+      "person_2_point": "Venus",
+      "orb": 9.47
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "trine",
+      "person_2_point": "Mars",
+      "orb": 1.37
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "sextile",
+      "person_2_point": "Jupiter",
+      "orb": 4.35
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "sextile",
+      "person_2_point": "Neptune",
+      "orb": 0.37
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "trine",
+      "person_2_point": "Pluto",
+      "orb": 7.23
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "sextile",
+      "person_2_point": "Medium_Coeli",
+      "orb": 2.4
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "trine",
+      "person_2_point": "Imum_Coeli",
+      "orb": 2.4
+    },
+    {
+      "person_1_point": "Descendant",
+      "aspect": "sextile",
+      "person_2_point": "Mean_Lilith",
+      "orb": 3.04
+    },
+    {
+      "person_1_point": "Imum_Coeli",
+      "aspect": "opposition",
+      "person_2_point": "Moon",
+      "orb": 8.91
+    },
+    {
+      "person_1_point": "Imum_Coeli",
+      "aspect": "opposition",
+      "person_2_point": "True_North_Lunar_Node",
+      "orb": 5.85
+    },
+    {
+      "person_1_point": "Imum_Coeli",
+      "aspect": "conjunction",
+      "person_2_point": "Chiron",
+      "orb": 9.67
+    },
+    {
+      "person_1_point": "Imum_Coeli",
+      "aspect": "trine",
+      "person_2_point": "Ascendant",
+      "orb": 2.51
+    },
+    {
+      "person_1_point": "Imum_Coeli",
+      "aspect": "sextile",
+      "person_2_point": "Descendant",
+      "orb": 2.51
+    },
+    {
+      "person_1_point": "Imum_Coeli",
+      "aspect": "conjunction",
+      "person_2_point": "True_South_Lunar_Node",
+      "orb": 5.85
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "conjunction",
+      "person_2_point": "Venus",
+      "orb": 6.91
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "trine",
+      "person_2_point": "Mars",
+      "orb": 1.19
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "sextile",
+      "person_2_point": "Neptune",
+      "orb": 2.94
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "trine",
+      "person_2_point": "Pluto",
+      "orb": 4.66
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "square",
+      "person_2_point": "True_North_Lunar_Node",
+      "orb": 3.01
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "sextile",
+      "person_2_point": "Medium_Coeli",
+      "orb": 4.97
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "trine",
+      "person_2_point": "Imum_Coeli",
+      "orb": 4.97
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "sextile",
+      "person_2_point": "Mean_Lilith",
+      "orb": 0.47
+    },
+    {
+      "person_1_point": "Mean_Lilith",
+      "aspect": "square",
+      "person_2_point": "True_South_Lunar_Node",
+      "orb": 3.01
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "square",
+      "person_2_point": "Sun",
+      "orb": 0.33
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "sextile",
+      "person_2_point": "Mercury",
+      "orb": 3.04
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "trine",
+      "person_2_point": "Venus",
+      "orb": 2.15
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "conjunction",
+      "person_2_point": "Mars",
+      "orb": 5.95
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "conjunction",
+      "person_2_point": "Pluto",
+      "orb": 0.09
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "opposition",
+      "person_2_point": "Medium_Coeli",
+      "orb": 9.72
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "conjunction",
+      "person_2_point": "Imum_Coeli",
+      "orb": 9.72
+    },
+    {
+      "person_1_point": "True_South_Lunar_Node",
+      "aspect": "sextile",
+      "person_2_point": "Mean_Lilith",
+      "orb": 4.28
+    }
+  ]
+}
